@@ -9,6 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=html)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=css)]() &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=dart)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=flutter)]()
 
 *Certifications* (click to view!) 
