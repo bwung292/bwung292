@@ -1,5 +1,5 @@
-Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,c,js,html,css,flutter)]
+Languages: \\
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,html,css,flutter)]()
 
-Certifications:
+Certifications: \\
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.coursera.org/account/accomplishments/certificate/QNX2RNREAYCM)
