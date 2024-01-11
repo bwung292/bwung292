@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=css)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=flutter)]()
 
-
+</br>
 
 ~ Certifications (click to view!) 
 
@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.coursera.org/account/accomplishments/certificate/HSZ5AHTGYD7A) 
 
 
-
+</br>
 
 ~ CodeSignal (click to view!)
 
