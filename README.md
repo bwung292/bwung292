@@ -1,3 +1,5 @@
+Student @ Carnegie Mellon University
+
 Languages: <br />
 [![My Skills](https://skillicons.dev/icons?i=py,c,js,html,css,flutter)]()
 
