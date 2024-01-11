@@ -1,6 +1,6 @@
 **Student @ Carnegie Mellon University**
 
-*Languages*
+*Languages / Tools*
 
 [![My Skills](https://skillicons.dev/icons?i=py)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=sklearn)]() &nbsp;
