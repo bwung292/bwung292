@@ -4,6 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=c)]() &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=matlab)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=js)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=html)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=css)]() &nbsp;
