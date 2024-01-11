@@ -18,3 +18,6 @@ Certifications (click to view!)
 CodeSignal (click to view!)
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://app.codesignal.com/coding-report/TBuoNcxiWyMTXcdng-SGhxxjJLwZQXdvBP8Weio3Nj?accessToken=TBuoNcxiWyMTXcdng-KMcHPzToGqLLMQBnevhNrLup)
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/bwung292)
