@@ -12,13 +12,10 @@
 
 *Certifications* (click to view!) 
 
+[![My Skills](https://skillicons.dev/icons?i=py)](https://app.codesignal.com/coding-report/TBuoNcxiWyMTXcdng-SGhxxjJLwZQXdvBP8Weio3Nj?accessToken=TBuoNcxiWyMTXcdng-KMcHPzToGqLLMQBnevhNrLup) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.coursera.org/account/accomplishments/certificate/BGBEMECYLTTT) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.coursera.org/account/accomplishments/certificate/QNX2RNREAYCM) &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.coursera.org/account/accomplishments/certificate/HSZ5AHTGYD7A) 
-
-*CodeSignal* (click to view!)
-
-[![My Skills](https://skillicons.dev/icons?i=py)](https://app.codesignal.com/coding-report/TBuoNcxiWyMTXcdng-SGhxxjJLwZQXdvBP8Weio3Nj?accessToken=TBuoNcxiWyMTXcdng-KMcHPzToGqLLMQBnevhNrLup)
 
 *LeetCode*
 
