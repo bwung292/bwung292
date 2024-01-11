@@ -3,6 +3,7 @@
 *Languages*
 
 [![My Skills](https://skillicons.dev/icons?i=py)]() &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=sklearn)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=c)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=matlab)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=js)]() &nbsp;
